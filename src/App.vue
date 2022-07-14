@@ -10,6 +10,7 @@ import MyTitle from './components/Title.vue'
 import JumbotronHero from './components/Hero.vue'
 
 
+
 export default {
   name: 'App',
   components: {
@@ -19,7 +20,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -31,4 +32,6 @@ export default {
   padding: 0;
   box-sizing: border-box;
 }
+
+@import'~bootstrap/dist/css/bootstrap.css'
 </style>

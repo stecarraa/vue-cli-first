@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1 class="">La mia prima app con Vue CLI!</h1>
+    <h1 class="text-center">La mia prima app con Vue CLI!</h1>
   </div>
 </template>
 

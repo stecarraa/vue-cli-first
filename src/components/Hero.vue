@@ -3,7 +3,7 @@
    <div class="ms-container">
     <div class="row">
         <div class="col-12">
-            <h1 class="">Quante cose si possssono fare</h1>
+            <h1 class="text-white text-center">Quante cose si possssono fare</h1>
         </div>
     </div>
 
